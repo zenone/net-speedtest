@@ -2,8 +2,6 @@
 
 All notable changes between the **original `network_speedtest.py`** script and the **new `net_speedtest.py`** implementation are documented here.
 
-This changelog is written from a *systems + reliability* perspective rather than just line-by-line diffs, since the new version represents a deliberate architectural shift.
-
 ---
 
 ## net_speedtest (Current)

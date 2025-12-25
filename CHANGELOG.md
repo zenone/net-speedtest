@@ -6,7 +6,7 @@ This changelog is written from a *systems + reliability* perspective rather than
 
 ---
 
-## [Unreleased] – net_speedtest (Current)
+## net_speedtest (Current)
 
 ### 🔁 Architectural Overhaul
 **BREAKING CHANGE**

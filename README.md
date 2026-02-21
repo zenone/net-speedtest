@@ -249,3 +249,11 @@ MIT — use freely, modify responsibly.
 
 Built for people who care not just about *speed*…  
 but about *experience*.
+
+---
+
+<p align="center">
+  Made by <a href="https://github.com/zenone">@zenone</a>
+  <br>
+  <a href="https://www.linkedin.com/in/zenone/">LinkedIn</a> · <a href="https://github.com/zenone">GitHub</a>
+</p>
